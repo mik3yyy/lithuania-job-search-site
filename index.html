@@ -7,9 +7,12 @@
 <style>
   :root { color-scheme: light dark; }
   body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; background: #fafafa; color: #1a1a1a; }
-  @media (prefers-color-scheme: dark) { body { background: #17171a; color: #eee; } .card { background: #232326 !important; border-color: #333 !important; } }
-  h1 { font-size: 22px; }
-  .updated { color: #888; font-size: 13px; margin-bottom: 24px; }
+  @media (prefers-color-scheme: dark) { body { background: #17171a; color: #eee; } .card, .batch-header { background: #232326 !important; border-color: #333 !important; } }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .subtitle { color: #888; font-size: 13px; margin-bottom: 28px; }
+  .batch-header { display: flex; justify-content: space-between; align-items: baseline; padding: 10px 4px; border-bottom: 2px solid #ddd; margin-bottom: 14px; }
+  .batch-date { font-weight: 600; font-size: 15px; }
+  .batch-count { color: #888; font-size: 13px; }
   .card { border: 1px solid #e0e0e0; border-radius: 10px; padding: 16px; margin-bottom: 14px; background: #fff; }
   .source { font-size: 12px; color: #888; }
   .title { font-size: 17px; font-weight: 600; margin: 4px 0; }
@@ -17,35 +20,85 @@
   .title a:hover { text-decoration: underline; }
   .company { font-size: 14px; color: #555; }
   .reason { font-size: 13px; color: #2a7a2a; margin-top: 8px; }
-  .empty { color: #888; text-align: center; margin-top: 60px; }
+  .empty { color: #888; text-align: center; margin: 40px 0; }
+  #history-toggle { display: block; width: 100%; text-align: center; padding: 12px; margin-top: 20px; border: 1px dashed #ccc; border-radius: 10px; background: none; color: #666; font-size: 14px; cursor: pointer; }
+  #history { display: none; margin-top: 20px; }
+  #history.open { display: block; }
+  .history-batch { margin-bottom: 28px; }
 </style>
 </head>
 <body>
   <h1>Job Matches — Elizabeth</h1>
-  <div class="updated" id="updated"></div>
-  <div id="jobs"></div>
+  <div class="subtitle" id="subtitle">Loading…</div>
+
+  <a href="https://github.com/mik3yyy/lithuania-job-search/issues/new?title=run-batch&body=Requesting+a+new+job+search+batch." target="_blank" rel="noopener" style="display:block;text-align:center;padding:12px;margin-bottom:20px;border-radius:10px;background:#1a1a1a;color:#fff;text-decoration:none;font-weight:600;">
+    ↻ Run a new search now
+  </a>
+
+  <div id="latest"></div>
+
+  <button id="history-toggle" onclick="toggleHistory()">Show previous batches ▾</button>
+  <div id="history"></div>
 
   <script>
-    fetch('jobs.json?t=' + Date.now())
+    let allBatches = [];
+
+    function jobCard(j) {
+      return `
+        <div class="card">
+          <div class="source">${j.source} · ${j.location}</div>
+          <div class="title"><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></div>
+          <div class="company">${j.company}</div>
+          <div class="reason">✓ ${j.match_reason || ''}</div>
+        </div>`;
+    }
+
+    function batchBlock(batch, isLatest) {
+      const date = new Date(batch.created).toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+      const jobsHtml = batch.jobs.length
+        ? batch.jobs.map(jobCard).join('')
+        : '<div class="empty">No new matching jobs in this batch.</div>';
+      return `
+        <div class="${isLatest ? '' : 'history-batch'}">
+          <div class="batch-header">
+            <span class="batch-date">${isLatest ? 'Latest — ' : ''}${date}</span>
+            <span class="batch-count">${batch.jobs.length} job${batch.jobs.length !== 1 ? 's' : ''}</span>
+          </div>
+          ${jobsHtml}
+        </div>`;
+    }
+
+    function toggleHistory() {
+      const el = document.getElementById('history');
+      const btn = document.getElementById('history-toggle');
+      const open = el.classList.toggle('open');
+      btn.textContent = open ? 'Hide previous batches ▴' : 'Show previous batches ▾';
+    }
+
+    fetch('batches.json?t=' + Date.now())
       .then(r => r.json())
       .then(data => {
-        document.getElementById('updated').textContent = 'Last updated: ' + new Date(data.updated).toLocaleString();
-        const container = document.getElementById('jobs');
-        if (!data.jobs.length) {
-          container.innerHTML = '<div class="empty">No matching jobs right now — check back tomorrow.</div>';
+        allBatches = data.batches || [];
+        document.getElementById('subtitle').textContent =
+          `Last updated: ${new Date(data.updated).toLocaleString()} · ${allBatches.length} batch${allBatches.length !== 1 ? 'es' : ''} total`;
+
+        if (!allBatches.length) {
+          document.getElementById('latest').innerHTML = '<div class="empty">No batches yet — check back after the first run.</div>';
+          document.getElementById('history-toggle').style.display = 'none';
           return;
         }
-        container.innerHTML = data.jobs.map(j => `
-          <div class="card">
-            <div class="source">${j.source} · ${j.location}</div>
-            <div class="title"><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></div>
-            <div class="company">${j.company}</div>
-            <div class="reason">✓ ${j.match_reason || ''}</div>
-          </div>
-        `).join('');
+
+        document.getElementById('latest').innerHTML = batchBlock(allBatches[0], true);
+
+        const older = allBatches.slice(1);
+        if (older.length) {
+          document.getElementById('history').innerHTML = older.map(b => batchBlock(b, false)).join('');
+        } else {
+          document.getElementById('history-toggle').style.display = 'none';
+        }
       })
       .catch(() => {
-        document.getElementById('jobs').innerHTML = '<div class="empty">Could not load jobs.json</div>';
+        document.getElementById('latest').innerHTML = '<div class="empty">Could not load batches.json</div>';
       });
   </script>
 </body>
