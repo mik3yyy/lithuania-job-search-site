@@ -1,6 +1,214 @@
 {
-  "updated": "2026-08-21T14:13:04.491094+00:00",
+  "updated": "2026-08-21T22:17:03.710910+00:00",
   "batches": [
+    {
+      "id": "2026-08-21-221703",
+      "created": "2026-08-21T22:17:03.710910+00:00",
+      "jobs": [
+        {
+          "source": "Dirba.lt",
+          "title": "Did\u017ei\u0173j\u0173 klient\u0173 aptarnavimo sk  pardav\u0117jas \u0160iau",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "\u0160iauliai",
+          "url": "https://www.dirba.lt/didziuju-klientu-aptarnavimo-sk-pardavejas-siau-827648.html",
+          "language_hint": null,
+          "match_reason": "1.0km from her home in \u0160iauliai \u2014 matches her background, no language blocker.",
+          "kept": true
+        }
+      ],
+      "other_candidates": [
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Clinical Psychologist",
+          "company": "BetterHelp",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/151345-clinical-psychologist",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Customer Success Manager",
+          "company": "Keyfactor, Inc.",
+          "location": "Sweden,  UK,  USA",
+          "url": "https://jobicy.com/jobs/151342-customer-success-manager-14",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Dirba.lt",
+          "title": "Veterinarijos gydytoja (-as)",
+          "company": "UAB\"Kabarga\"",
+          "location": "Jonava",
+          "url": "https://www.dirba.lt/veterinarijos-gydytoja-as-825388.html",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Dirba.lt",
+          "title": "Ainava UAB reikalingas technikas",
+          "company": "Ainava UAB",
+          "location": "Vilnius",
+          "url": "https://www.dirba.lt/ainava-uab-reikalingas-technikas-827652.html",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Dirba.lt",
+          "title": "Reikalingas pagalbinis  darbuotojas  dieninis grafikas UAB ADVANTUS",
+          "company": "UAB ADVANTUS",
+          "location": "Klaip\u0117da",
+          "url": "https://www.dirba.lt/reikalingas-pagalbinis-darbuotojas-dieninis-grafikas-827651.html",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Parduotuv\u0117s darbuotojai(-os) (7.94 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=hm-hennesmauritz-parduotuves-darbuotojai-os-8153314",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "\u0160vie\u017eio maisto pardav\u0117jas (-a) Dang\u0117rutis (7.30 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=rimi-lietuva-sviezio-maisto-pardavejas-a-dangerutis-8151905",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Inbound Sales Representative - German Speaker",
+          "company": "Pineca Group",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/inbound-sales-representative-german-speaker-vilniuje/1-14079758",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Operations Specialist (Investment Services)",
+          "company": "UAB \u201eKESKO SENUKAI LITHUANIA\u201c",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/senior-operations-specialist-investment-services-vilniuje/1-13888248",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Account Manager - Spot Freight",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/account-manager-spot-freight-vilniuje/1-14080208",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "HR Generalist (m/f/d)",
+          "company": "Rheinmetall Defence Lietuva, UAB",
+          "location": "\u0160iauliai, Other",
+          "url": "https://www.cvbankas.lt/hr-generalist-m-f-d-radviliskyje/1-14080220",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Technikos skyriaus komandos vadovas (-\u0117)",
+          "company": "Rheinmetall Defence Lietuva, UAB",
+          "location": "\u0160iauliai, Other",
+          "url": "https://www.cvbankas.lt/technikos-skyriaus-komandos-vadovas-e-radviliskyje/1-13997678",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "IT Administrator",
+          "company": "UAB Elgama-Elektronika",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/it-administrator-vilniuje/1-14080556",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Accounts Payable Specialist (T&E)",
+          "company": "DexCom Lithuania, UAB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/accounts-payable-specialist-t-e-vilniuje/1-13980372",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Accountant",
+          "company": "EY",
+          "location": "Klaip\u0117da",
+          "url": "https://www.cvbankas.lt/senior-accountant-klaipedoje/1-13588035",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Sr. Financial Analyst",
+          "company": "DexCom Lithuania, UAB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/sr-financial-analyst-vilniuje/1-14080630",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Strategic Staffing Solutions",
+          "title": "Accountant",
+          "company": "",
+          "location": "Riga, Onsite",
+          "url": "https://jobs.strategicstaff.com/jobs/accountant-170516/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Strategic Staffing Solutions",
+          "title": "Software Engineer (AI)",
+          "company": "",
+          "location": "Warsaw, Hybrid",
+          "url": "https://jobs.strategicstaff.com/jobs/software-engineer-ai-170505/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Strategic Staffing Solutions",
+          "title": "Software Engineer (Securities Settlements) GSGJP00005608",
+          "company": "",
+          "location": "Warsaw, Hybrid",
+          "url": "https://jobs.strategicstaff.com/jobs/software-engineer-securities-settlements-gsgjp00005608-170508/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-21-141304",
       "created": "2026-08-21T14:13:04.491094+00:00",

@@ -34,6 +34,12 @@
   .company-why { font-size: 12px; color: #888; margin-top: 2px; }
   .company-link { font-size: 13px; color: #2a6ad4; text-decoration: none; white-space: nowrap; }
   .company-link:hover { text-decoration: underline; }
+  .other-card { border: 1px dashed #d8d8d8; border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; background: transparent; }
+  @media (prefers-color-scheme: dark) { .other-card { border-color: #3a3a3a; } }
+  .other-card .reason { color: #999; }
+  .other-toggle { display: block; width: 100%; text-align: center; padding: 10px; margin-top: 4px; margin-bottom: 16px; border: none; border-radius: 8px; background: none; color: #2a6ad4; font-size: 13px; cursor: pointer; }
+  .other-list { display: none; margin-bottom: 16px; }
+  .other-list.open { display: block; }
 </style>
 </head>
 <body>
@@ -76,28 +82,53 @@
 
     let allBatches = [];
 
-    function jobCard(j) {
+    function jobCard(j, muted) {
       return `
-        <div class="card">
+        <div class="${muted ? 'other-card' : 'card'}">
           <div class="source">${j.source} · ${j.location}</div>
           <div class="title"><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></div>
           <div class="company">${j.company}</div>
-          <div class="reason">✓ ${j.match_reason || ''}</div>
+          <div class="reason">${muted ? '' : '✓ '}${j.match_reason || ''}</div>
         </div>`;
+    }
+
+    function toggleOthers(id) {
+      const el = document.getElementById('other-list-' + id);
+      const btn = document.getElementById('other-toggle-' + id);
+      const open = el.classList.toggle('open');
+      const n = el.dataset.count;
+      btn.textContent = open ? `Hide the other ${n} ▴` : `See the other ${n} she can check herself ▾`;
     }
 
     function batchBlock(batch, isLatest) {
       const date = new Date(batch.created).toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+      const others = batch.other_candidates || [];
+      const considered = batch.jobs.length + others.length;
+
       const jobsHtml = batch.jobs.length
-        ? batch.jobs.map(jobCard).join('')
+        ? batch.jobs.map(j => jobCard(j, false)).join('')
         : '<div class="empty">No new matching jobs in this batch.</div>';
+
+      const otherHtml = others.length
+        ? `
+          <button class="other-toggle" id="other-toggle-${batch.id}" onclick="toggleOthers('${batch.id}')">See the other ${others.length} she can check herself ▾</button>
+          <div class="other-list" id="other-list-${batch.id}" data-count="${others.length}">
+            ${others.map(j => jobCard(j, true)).join('')}
+          </div>`
+        : '';
+
+      const countLabel = others.length
+        ? `${considered} found · ${batch.jobs.length} definitely relevant`
+        : `${batch.jobs.length} job${batch.jobs.length !== 1 ? 's' : ''}`;
+
       return `
         <div class="${isLatest ? '' : 'history-batch'}">
           <div class="batch-header">
             <span class="batch-date">${isLatest ? 'Latest — ' : ''}${date}</span>
-            <span class="batch-count">${batch.jobs.length} job${batch.jobs.length !== 1 ? 's' : ''}</span>
+            <span class="batch-count">${countLabel}</span>
           </div>
           ${jobsHtml}
+          ${otherHtml}
         </div>`;
     }
 
