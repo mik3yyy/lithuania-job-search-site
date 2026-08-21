@@ -1,6 +1,39 @@
 {
-  "updated": "2026-08-20T23:17:04.039935+00:00",
+  "updated": "2026-08-21T01:26:51.321910+00:00",
   "batches": [
+    {
+      "id": "2026-08-21-012651",
+      "created": "2026-08-21T01:26:51.321910+00:00",
+      "jobs": [
+        {
+          "source": "McDonald's Lithuania (Premier Restaurants / Hili Ventures) (company site)",
+          "title": "Crew member",
+          "company": "McDonald's Lithuania (Premier Restaurants / Hili Ventures)",
+          "location": "\u0160IAULIAI",
+          "url": "https://jobs.hiliventures.com/lithuania-en/jobs/details/crew-position/crew-member-scaroniauliai/632",
+          "language_hint": null,
+          "match_reason": "McDonald's crew member role is only 1.0km from her home in \u0160iauliai, a customer-facing entry-level job that fits her service background and part-time student needs."
+        },
+        {
+          "source": "McDonald's Lithuania (Premier Restaurants / Hili Ventures) (company site)",
+          "title": "Barista",
+          "company": "McDonald's Lithuania (Premier Restaurants / Hili Ventures)",
+          "location": "VILNIUS, KAUNAS, KLAIP\u0116DA, \u0160IAULIAI",
+          "url": "https://jobs.hiliventures.com/lithuania-en/jobs/details/crew-position/barista-vilnius-kaunas-klaipeda-scaroniauliai/595",
+          "language_hint": null,
+          "match_reason": "McDonald's barista position listed in \u0160iauliai (1.0km away) is a local, customer-facing, entry-level role well suited to part-time student work."
+        },
+        {
+          "source": "KFC Lietuva (company site)",
+          "title": "Aptarnaujantis personalas",
+          "company": "KFC Lietuva",
+          "location": "\u0160iauliai: KFC Gumbin\u0117s g. 4",
+          "url": "https://apollolt.teamdash.com/p/jobs/17/prisijunk-prie-kfc-komandos#xOx3",
+          "language_hint": null,
+          "match_reason": "KFC front-of-house service staff role just 1.0 km from her home in \u0160iauliai, a genuine local part-time customer-facing job matching her service background."
+        }
+      ]
+    },
     {
       "id": "2026-08-20-231704",
       "created": "2026-08-20T23:17:04.039935+00:00",
