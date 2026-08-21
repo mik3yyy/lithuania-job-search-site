@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-21T07:59:06.732265+00:00",
+  "updated": "2026-08-21T13:39:37.510114+00:00",
   "batches": [
+    {
+      "id": "2026-08-21-133937",
+      "created": "2026-08-21T13:39:37.510114+00:00",
+      "jobs": [
+        {
+          "source": "Telia Lietuva (company site)",
+          "title": "Klient\u0173 konsultantas (-\u0117) \u201eTelia\u201c salonuose",
+          "company": "Telia Lietuva",
+          "location": "Kaune, \u0160iauliuose ar Panev\u0117\u017eyje",
+          "url": "https://www.teliacompany.com/en/careers/open-positions?job-category=customer+services_sales&country=lt",
+          "language_hint": null,
+          "match_reason": "1.0km from her home in \u0160iauliai \u2014 title/description matches her customer-service/admin/hospitality background, no Lithuanian-only language requirement."
+        }
+      ]
+    },
     {
       "id": "2026-08-21-075906",
       "created": "2026-08-21T07:59:06.732265+00:00",
