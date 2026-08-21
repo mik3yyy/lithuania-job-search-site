@@ -31,9 +31,10 @@
   <h1>Job Matches — Elizabeth</h1>
   <div class="subtitle" id="subtitle">Loading…</div>
 
-  <a href="https://github.com/mik3yyy/lithuania-job-search/issues/new?title=run-batch&body=Requesting+a+new+job+search+batch." target="_blank" rel="noopener" style="display:block;text-align:center;padding:12px;margin-bottom:20px;border-radius:10px;background:#1a1a1a;color:#fff;text-decoration:none;font-weight:600;">
+  <button id="run-now" onclick="runNow()" style="display:block;width:100%;text-align:center;padding:12px;margin-bottom:8px;border:none;border-radius:10px;background:#1a1a1a;color:#fff;font-weight:600;font-size:15px;cursor:pointer;">
     ↻ Run a new search now
-  </a>
+  </button>
+  <div id="run-now-status" style="text-align:center;font-size:13px;color:#888;margin-bottom:20px;min-height:16px;"></div>
 
   <div id="latest"></div>
 
@@ -41,6 +42,26 @@
   <div id="history"></div>
 
   <script>
+    const TRIGGER_URL = 'https://lithuania-job-trigger.miketransport.workers.dev';
+    const TRIGGER_KEY = '36f4095167d5fcdd7f2ca83e1e4ee22d';
+
+    function runNow() {
+      const btn = document.getElementById('run-now');
+      const status = document.getElementById('run-now-status');
+      btn.disabled = true;
+      status.textContent = 'Starting a new search…';
+      fetch(`${TRIGGER_URL}?key=${TRIGGER_KEY}`)
+        .then(r => r.json().then(data => ({ ok: r.ok, data })))
+        .then(({ ok, data }) => {
+          status.textContent = ok ? data.message : data.error;
+          btn.disabled = false;
+        })
+        .catch(() => {
+          status.textContent = 'Could not reach the search trigger — try again shortly.';
+          btn.disabled = false;
+        });
+    }
+
     let allBatches = [];
 
     function jobCard(j) {
