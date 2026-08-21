@@ -25,6 +25,15 @@
   #history { display: none; margin-top: 20px; }
   #history.open { display: block; }
   .history-batch { margin-bottom: 28px; }
+  #companies-toggle { display: block; width: 100%; text-align: center; padding: 12px; margin-top: 12px; border: 1px dashed #ccc; border-radius: 10px; background: none; color: #666; font-size: 14px; cursor: pointer; }
+  #companies-list { display: none; margin-top: 16px; }
+  #companies-list.open { display: block; }
+  .company-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 10px 4px; border-bottom: 1px solid #e0e0e0; }
+  @media (prefers-color-scheme: dark) { .company-row { border-color: #333; } }
+  .company-name { font-size: 14px; font-weight: 600; }
+  .company-why { font-size: 12px; color: #888; margin-top: 2px; }
+  .company-link { font-size: 13px; color: #2a6ad4; text-decoration: none; white-space: nowrap; }
+  .company-link:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
@@ -40,6 +49,9 @@
 
   <button id="history-toggle" onclick="toggleHistory()">Show previous batches ▾</button>
   <div id="history"></div>
+
+  <button id="companies-toggle" onclick="toggleCompanies()">Show companies we're watching ▾</button>
+  <div id="companies-list"></div>
 
   <script>
     const TRIGGER_URL = 'https://lithuania-job-trigger.miketransport.workers.dev';
@@ -94,6 +106,45 @@
       const btn = document.getElementById('history-toggle');
       const open = el.classList.toggle('open');
       btn.textContent = open ? 'Hide previous batches ▴' : 'Show previous batches ▾';
+    }
+
+    let companiesLoaded = false;
+
+    function companyRow(c) {
+      return `
+        <div class="company-row">
+          <div>
+            <div class="company-name">${c.name}</div>
+            ${c.why ? `<div class="company-why">${c.why}</div>` : ''}
+          </div>
+          <a class="company-link" href="${c.careers_url}" target="_blank" rel="noopener">careers page ↗</a>
+        </div>`;
+    }
+
+    function toggleCompanies() {
+      const el = document.getElementById('companies-list');
+      const btn = document.getElementById('companies-toggle');
+      const open = el.classList.toggle('open');
+      btn.textContent = open
+        ? "Hide companies we're watching ▴"
+        : `Show companies we're watching ▾`;
+
+      if (open && !companiesLoaded) {
+        el.innerHTML = '<div class="empty">Loading…</div>';
+        fetch('companies.json?t=' + Date.now())
+          .then(r => r.json())
+          .then(companies => {
+            companiesLoaded = true;
+            companies.sort((a, b) => a.name.localeCompare(b.name));
+            btn.textContent = `Hide companies we're watching (${companies.length}) ▴`;
+            el.innerHTML = companies.length
+              ? companies.map(companyRow).join('')
+              : '<div class="empty">No companies yet.</div>';
+          })
+          .catch(() => {
+            el.innerHTML = '<div class="empty">Could not load companies.json</div>';
+          });
+      }
     }
 
     fetch('batches.json?t=' + Date.now())
