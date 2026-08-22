@@ -1,6 +1,153 @@
 {
-  "updated": "2026-08-21T22:17:03.710910+00:00",
+  "updated": "2026-08-22T07:34:38.200142+00:00",
   "batches": [
+    {
+      "id": "2026-08-22-073438",
+      "created": "2026-08-22T07:34:38.200142+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Sr. Partner Relationship Manager - Strategic Technology Partnerships",
+          "company": "Contentstack",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/151362-sr-partner-relationship-manager-strategic-technology-partnerships",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "AEM and Adobe Target Architect",
+          "company": "Vonage",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/151353-aem-and-adobe-target-architect",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153356",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.20 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153351",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153353",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Padav\u0117jai(-os) (7.30 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=viesbutis-lietuva-padavejai-os-8153346",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.07 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153357",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "U\u017esakym\u0173 komplektuotojai(-os). (15.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=maxima-lt-uzsakymu-komplektuotojai-os-7151299",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Spaustuv\u0117s operatorius (-\u0117) (9.92 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=hautica-spaustuves-operatorius-e-8153256",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jas (-a) (kasoje) PC Mandarinas (7.30 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=rimi-lietuva-pardavejas-a-kasoje-pc-mandarinas-8152429",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Senior Product Manager (AML area)",
+          "company": "Genome",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20798",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Engineering Manager, Firmware",
+          "company": "CUJO AI, Vilnius",
+          "location": "Kaunas",
+          "url": "https://unicorns.lt/j/20797",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Apskaitos specialist\u0117 (-as)",
+          "company": "mano.bank",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20796",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Product Owner",
+          "company": "mano.bank",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20795",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-21-221703",
       "created": "2026-08-21T22:17:03.710910+00:00",
