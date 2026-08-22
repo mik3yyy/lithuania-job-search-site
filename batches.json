@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-22T09:43:43.454609+00:00",
+  "updated": "2026-08-22T10:15:00.449482+00:00",
   "batches": [
+    {
+      "id": "2026-08-22-101500",
+      "created": "2026-08-22T10:15:00.449482+00:00",
+      "jobs": [
+        {
+          "source": "Prezo Bakery (company site)",
+          "title": "Pardav\u0117jas (\u2013a) \u2013 barista",
+          "company": "Prezo Bakery",
+          "location": "Vilnius, Kaunas, Klaip\u0117da, \u0160iauliai, Jonava, K\u0117dainiai, Tel\u0161iai, Plung\u0117, \u0160ilut\u0117, \u0160ilal\u0117, Radvili\u0161kis, Alytus, Panev\u0117\u017eys, Ma\u017eeikiai, Taurag\u0117",
+          "url": "https://prezo.lt/karjera/",
+          "language_hint": null,
+          "match_reason": "1.0km from her home in \u0160iauliai \u2014 matches her background, no language blocker.",
+          "kept": true
+        }
+      ],
+      "other_candidates": [
+        {
+          "source": "Workis.online",
+          "title": "Promo darbuotojas (-a) (7.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=avitelos-prekyba-promo-darbuotojas-a-7151697",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Prezo Bakery (company site)",
+          "title": "Konditeris (\u2013\u0117) / kep\u0117jas (\u2013a)",
+          "company": "Prezo Bakery",
+          "location": "Vilnius, Kaunas, Klaip\u0117da, \u0160iauliai, Jonava, K\u0117dainiai, Tel\u0161iai, Plung\u0117, \u0160ilut\u0117, \u0160ilal\u0117, Radvili\u0161kis, Alytus, Panev\u0117\u017eys, Ma\u017eeikiai, Taurag\u0117",
+          "url": "https://prezo.lt/karjera/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Prezo Bakery (company site)",
+          "title": "Maisto pusgamini\u0173 ruo\u0161\u0117jas",
+          "company": "Prezo Bakery",
+          "location": "Alytus, Prienai, Lazdijai",
+          "url": "https://www.cvbankas.lt/maisto-pusgaminiu-ruosejas-alytuje/1-12708899",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-22-094343",
       "created": "2026-08-22T09:43:43.454609+00:00",
