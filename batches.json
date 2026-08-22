@@ -1,6 +1,133 @@
 {
-  "updated": "2026-08-22T10:15:00.449482+00:00",
+  "updated": "2026-08-22T10:48:12.330874+00:00",
   "batches": [
+    {
+      "id": "2026-08-22-104812",
+      "created": "2026-08-22T10:48:12.330874+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojas(a) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=omniva-lt-sorting-siuntu-skirstytojasa-8153079",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Apsaugos darbuotojas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Apskaitininkas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Buhalteris",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Pardav\u0117jas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Pardav\u0117jas-kasininkas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Parduotuv\u0117s ved\u0117jas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Vadybininkas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Sand\u0117lininkas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Valytojas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Kubas (company site)",
+          "title": "Pagalbinis darbininkas",
+          "company": "Kubas",
+          "location": "darb\u0105 arti nam\u0173",
+          "url": "https://www.pckubas.lt/karjera/darbo-pasiulymai/",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Narvesen (company site)",
+          "title": "Darbas Narvesen parduotuv\u0117je",
+          "company": "Narvesen",
+          "location": "Vilnius, Klaip\u0117da, Panev\u0117\u017eys, Kaunas, \u0160iauliai, Palanga",
+          "url": "https://narvesen.lt/karjera/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-22-101500",
       "created": "2026-08-22T10:15:00.449482+00:00",
