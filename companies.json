@@ -1,141 +1,8 @@
 [
   {
-    "name": "Concentrix Lithuania",
-    "careers_url": "https://jobs.concentrix.com/lithuania/job-search/",
-    "why": "BPO multilingual customer support hub hiring English speakers, remote/hybrid roles across Lithuania",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Teleperformance Lithuania",
-    "careers_url": "https://www.teleperformance.com/job-opportunities/lithuania/",
-    "why": "Large BPO customer service employer in Lithuania, English-speaking workplace",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Transcom Lithuania",
-    "careers_url": "https://careers.transcom.com/job-openings/",
-    "why": "BPO customer experience representative roles, English-speaking, one of Lithuania's largest employers",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "TELUS Digital (Lithuania)",
-    "careers_url": "https://jobs.telusdigital.com/search/jobs/in/lithuania",
-    "why": "International BPO/customer support company with Lithuania-based openings",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Western Union (Vilnius Business Solutions Center)",
-    "careers_url": "https://careers.westernunion.com/lithuania/",
-    "why": "Shared-service center with customer service/admin ops roles in English",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Baltic Assist",
-    "careers_url": "https://balticassist.com/career/",
-    "why": "Remote virtual-assistant/admin support company hiring across the Baltics, English-speaking",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Wix",
-    "careers_url": "https://careers.wix.com/positions?location=vilnius",
-    "why": "Tech company with English-speaking customer care team in Lithuania",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "IOM Lithuania (UN Migration)",
-    "careers_url": "https://lithuania.iom.int/careers",
-    "why": "International organization doing migrant/health advocacy and social-care work, English-speaking, good fit with Social Work studies",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Yara International (Yara Business Services / Yara_EBS)",
-    "careers_url": "https://jobs.yara.com/job/Vilnius-Customer-Service-Specialist-(English-speaking)/1213002201/",
-    "why": "English-speaking customer service roles at Yara's Vilnius shared service centre",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "TransferGo",
-    "careers_url": "https://www.transfergo.com/careers",
-    "why": "Vilnius-based fintech hiring English-speaking customer support specialists",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Booking.com",
-    "careers_url": "https://careers.booking.com/",
-    "why": "Vilnius customer service call centre with English-speaking roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Cognizant Technology Solutions Lithuania",
-    "careers_url": "https://careers.cognizant.com/us-en/jobs/44012/join-cognizant-unlock-new-horizons-with-scandinavian-languages-as-finance-process-specialist/",
-    "why": "Vilnius shared-service/BPO centre hiring English-speaking process specialists",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Danske Bank Lithuania",
-    "careers_url": "https://job.danskebank.lt/jobs/",
-    "why": "Large Vilnius shared-service centre, English as working language, admin/support roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Amberton Hotel Group",
-    "careers_url": "https://ambertonhotels.com/en/career/",
-    "why": "Lithuanian hotel chain with front-desk/hospitality roles across multiple cities",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Beliani",
-    "careers_url": "https://www.beliani.co.uk/content/jobs/",
-    "why": "Remote-first e-commerce hiring EU-based English-speaking customer service staff",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Active Youth Association (AY)",
-    "careers_url": "https://activeyouth.lt/about-us/join/?lang=en",
-    "why": "Lithuania-based NGO working with youth/vulnerable groups, English-speaking, social-care fit",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Dexcom",
-    "careers_url": "https://careers.dexcom.com/careers/customer_support/vilnius_lithuania?domain=dexcom.com",
-    "why": "Medical device company (health-tech) with a Vilnius hub hiring English-speaking customer service/support reps",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Cencora (formerly AmerisourceBergen)",
-    "careers_url": "https://careers.cencora.com/us/en/job/R2516645/Control-Center-Specialist",
-    "why": "Healthcare distribution shared-services center in Vilnius with customer ops/service and admin roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Continental (Shared Service Center Kaunas)",
-    "careers_url": "https://www.continental.com/en/kaunas-lithuania/your-career/",
-    "why": "English-language shared service center hiring for administrative/customer support roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
     "name": "Swedbank",
     "careers_url": "https://jobs.swedbank.com/departments/customer-service-and-advice",
-    "why": "Baltic bank with Vilnius-based customer service/advice and admin roles, English-friendly postings",
+    "why": "confirmed physically near \u0160iauliai via map data (real branch location)",
     "consecutive_empty_checks": 0,
     "ever_matched": false
   },
@@ -149,7 +16,7 @@
   {
     "name": "Maxima grup\u0117",
     "careers_url": "https://karjera.maxima.lt/",
-    "why": "Largest Baltic supermarket chain with confirmed customer-facing/admin openings in \u0160iauliai",
+    "why": "confirmed physically near \u0160iauliai via map data, and has produced real customer-facing/admin openings in \u0160iauliai",
     "consecutive_empty_checks": 0,
     "ever_matched": false
   },
@@ -157,84 +24,56 @@
     "name": "Lidl Lietuva",
     "careers_url": "https://karjera.lidl.lt/",
     "why": "International discount supermarket chain with stores and customer service roles in \u0160iauliai",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Lietuvos Caritas (\u0160iauli\u0173 Caritas)",
     "careers_url": "https://www.caritas.lt/page/siauliu-caritas",
     "why": "Catholic social-care NGO branch located in \u0160iauliai, strong fit for Social Work studies",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Vinted",
-    "careers_url": "https://careers.vinted.com/",
-    "why": "Lithuanian tech company, English-speaking workplace, customer/member support roles, remote-friendly",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Revolut",
-    "careers_url": "https://www.revolut.com/en-LT/careers/",
-    "why": "Fintech with Vilnius hub, English-speaking, customer support roles incl. remote-from-Lithuania",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "SEB Lithuania",
     "careers_url": "https://www.seb.lt/en/career",
-    "why": "Nordic bank in Vilnius, English-speaking corporate environment, admin/customer-service functions",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "IHG Hotels & Resorts (Holiday Inn)",
-    "careers_url": "https://careers.ihg.com/en/our-brands/holiday-inn/",
-    "why": "International hotel chain with Vilnius property, front desk/guest services, English-friendly standards",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Lithuanian Red Cross (Lietuvos Raudonasis Kry\u017eius)",
-    "careers_url": "https://redcross.lt/darbo-skelbimai/",
-    "why": "National humanitarian NGO, community/social-care work fits Social Work Master's",
-    "consecutive_empty_checks": 4,
+    "why": "confirmed physically near \u0160iauliai via map data (real branch location)",
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Rimi Lietuva",
     "careers_url": "https://karjera.rimi.lt/",
-    "why": "Large supermarket chain, customer service desk/admin roles, not warehouse",
+    "why": "confirmed physically near \u0160iauliai via map data (real store location)",
     "consecutive_empty_checks": 0,
     "ever_matched": false
   },
   {
     "name": "IKI",
     "careers_url": "https://iki.lt/karjera/",
-    "why": "Large Lithuanian supermarket chain, customer service/admin roles",
-    "consecutive_empty_checks": 4,
+    "why": "confirmed physically near \u0160iauliai via map data (real store location)",
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "SOS Children's Villages Lithuania (SOS vaik\u0173 kaimai)",
     "careers_url": "https://sos-vaikukaimai.lt/karjera/",
     "why": "Child-welfare NGO with vacancies incl. \u0160iauliai region, strong social-work alignment",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Circle K Lithuania",
     "careers_url": "https://workwithus.circlek.com/global/en",
     "why": "International convenience/gas station chain with counter/store-associate roles at multiple \u0160iauliai locations; not warehouse work",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Hesburger Lithuania",
     "careers_url": "https://www.hesburger.lt/karjera",
-    "why": "Nordic fast-food chain with restaurants in \u0160iauliai (Saul\u0117s miestas, Pramon\u0117s g.); front counter/customer service roles",
-    "consecutive_empty_checks": 4,
+    "why": "confirmed physically near \u0160iauliai via map data (real restaurant location)",
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
@@ -247,7 +86,7 @@
   {
     "name": "Caffeine (Reitan Convenience Lithuania)",
     "careers_url": "https://caffeine.lt/karjera/",
-    "why": "Nationwide coffee-shop chain (220+ locations) with barista/counter customer-service roles, not back-of-house heavy labor",
+    "why": "confirmed physically near \u0160iauliai via map data (real coffee-shop location)",
     "consecutive_empty_checks": 0,
     "ever_matched": false
   },
@@ -262,84 +101,28 @@
     "name": "Apranga Group",
     "careers_url": "https://aprangagroup.lt/en/career/job-offers",
     "why": "Major Baltic fashion retail chain with a store in Akropolis \u0160iauliai; customer service/sales roles, not stock-floor work",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Kilo Health",
-    "careers_url": "https://teamtailor.kilo.health/jobs",
-    "why": "Vilnius-based digital health & wellness company hiring remotely across Lithuania; health-focused, English-speaking workplace, good fit for social-work/health-advocacy interest",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Maltieciai.lt (Order of Malta Relief Service Lithuania)",
-    "careers_url": "https://maltieciai.lt/karjera/",
-    "why": "Lithuanian humanitarian/social-care NGO supporting elderly, disabled, and refugees nationwide; strong fit for Social Work background",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Nord Security (NordVPN)",
-    "careers_url": "https://nordsecurity.com/careers",
-    "why": "Vilnius/Kaunas tech unicorn hiring English-speaking customer/technical support staff, hybrid-friendly",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Oxylabs",
-    "careers_url": "https://jobs.lever.co/oxylabs",
-    "why": "Vilnius tech company with dedicated Customer Success/Support team, English-speaking, non-physical",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Hostinger",
-    "careers_url": "https://www.hostinger.com/career",
-    "why": "Remote-first web hosting company explicitly hiring Customer Success/Support staff based anywhere in Lithuania",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Wargaming",
-    "careers_url": "https://wargaming.com/en/careers/office/vilnius/",
-    "why": "Vilnius office with Player Support (customer service) roles, English-speaking international gaming company",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "Human Rights Monitoring Institute (HRMI)",
-    "careers_url": "https://hrmi.lt/en/karjera/",
-    "why": "Lithuanian human-rights/advocacy NGO, strong fit for Social Work background",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Bolt",
-    "careers_url": "https://bolt.eu/en/careers/teams/customer-support/",
-    "why": "Vilnius-headquartered mobility tech company with a large English-speaking Customer Support team",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "DEPO DIY",
     "careers_url": "https://depo-diy.lt/darbas-depo/",
     "why": "Large Baltic home/DIY retail chain with a store in \u0160iauliai; cashier/customer-service desk roles",
-    "consecutive_empty_checks": 3,
+    "consecutive_empty_checks": 0,
     "ever_matched": false
   },
   {
     "name": "\u010cili Pizza (LTK Food Group)",
     "careers_url": "https://apply.workable.com/cili-pizza/",
-    "why": "Largest Baltic restaurant/pizza chain with an active careers page; front-of-house/host/counter roles",
-    "consecutive_empty_checks": 4,
+    "why": "confirmed physically near \u0160iauliai via map data (real restaurant location)",
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Camelia",
     "careers_url": "https://karjera.camelia.lt/",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
@@ -353,14 +136,14 @@
     "name": "Benu",
     "careers_url": "https://www.benu.lt/karjera/prisijunk-prie-benu-vaistines-kolektyvo",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Eurovaistin\u0117",
     "careers_url": "https://www.eurovaistine.lt/karjera",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
@@ -374,49 +157,7 @@
     "name": "Norfos vaistin\u0117",
     "careers_url": "https://nvaistine.lt/karjera",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Hilton",
-    "careers_url": "https://jobs.hilton.com/emea/en",
-    "why": "global hotel chain with a Vilnius property; front desk/guest services roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Marriott International",
-    "careers_url": "https://careers.marriott.com/jobs",
-    "why": "global hotel chain with Vilnius properties (Courtyard, AC Hotel); front office/guest services",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Radisson Hotel Group",
-    "careers_url": "https://radissoncareers.com/jobs",
-    "why": "hotel chain with Radisson Blu/Collection properties in Vilnius; receptionist roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Burger King Lithuania",
-    "careers_url": "https://www.burgerking.lt/karjera/",
-    "why": "fast-food chain in Lithuania; counter/front-of-house crew roles",
-    "consecutive_empty_checks": 4,
-    "ever_matched": false
-  },
-  {
-    "name": "Omniva",
-    "careers_url": "https://www.omnivagroup.com/lt/karjera/darbo-pasiulymai/",
-    "why": "Baltic parcel/postal group with dedicated customer service specialist openings (non-warehouse)",
-    "consecutive_empty_checks": 0,
-    "ever_matched": false
-  },
-  {
-    "name": "DPD Lietuva",
-    "careers_url": "https://www.dpd.com/lt/en/career-dpd/current-job-offers/",
-    "why": "parcel delivery company with office-based customer service/admin roles, English careers portal",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
@@ -430,14 +171,14 @@
     "name": "Aib\u0117",
     "careers_url": "https://aibe.lt/karjera/",
     "why": "Lithuanian supermarket chain with multiple \u0160iauliai stores; customer service/admin roles",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   },
   {
     "name": "Gintarin\u0117 vaistin\u0117",
     "careers_url": "https://www.gintarine.lt/darbas-vaistineje",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 4,
+    "consecutive_empty_checks": 5,
     "ever_matched": false
   }
 ]

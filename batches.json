@@ -1,6 +1,93 @@
 {
-  "updated": "2026-08-22T07:34:38.200142+00:00",
+  "updated": "2026-08-22T09:34:12.613308+00:00",
   "batches": [
+    {
+      "id": "2026-08-22-093412",
+      "created": "2026-08-22T09:34:12.613308+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Clinical Assistant",
+          "company": "SWORD Health",
+          "location": "Portugal",
+          "url": "https://jobicy.com/jobs/151370-clinical-assistant",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Controls Engineer II",
+          "company": "ICON plc",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153358",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.20 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153360",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.07 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153363",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Kasininkai (-\u0117s) (7.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=iki-lietuva-kasininkai-es-8153161",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "LOVEJOB",
+          "title": "Statybos projekt\u0173 vadovas (-\u0117)",
+          "company": "voodoo (Fortune it)",
+          "location": "Vilnius",
+          "url": "https://www.lovejob.lt/darbo-skelbimas/statybos-projektu-vadovas-e/3736",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "LOVEJOB",
+          "title": "Gydytojas (-a) dermatovenerologas (-\u0117)",
+          "company": "voodoo (Fortune it)",
+          "location": "Vilnius",
+          "url": "https://www.lovejob.lt/darbo-skelbimas/gydytojas-a-dermatovenerologas-e/3925",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-22-073438",
       "created": "2026-08-22T07:34:38.200142+00:00",
