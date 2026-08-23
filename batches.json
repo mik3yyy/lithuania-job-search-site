@@ -1,6 +1,383 @@
 {
-  "updated": "2026-08-22T10:48:12.330874+00:00",
+  "updated": "2026-08-23T07:33:57.481484+00:00",
   "batches": [
+    {
+      "id": "2026-08-23-073357",
+      "created": "2026-08-23T07:33:57.481484+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "CVBankas",
+          "title": "Pardav\u0117ja (-as) \u2013 konsultant\u0117 (-as) bald\u0173 salone (Kaunas, \u017dalioji Galerija)",
+          "company": "UAB \u201eEvinara\u201c",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/pardaveja-as-konsultante-as-baldu-salone-kaunas-zalioji-galerija-kaune/1-14100049",
+          "language_hint": null,
+          "match_reason": "120.2km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Digital Marketing & AI Specialist",
+          "company": "Manay CPA Inc.",
+          "location": "T\u00fcrkiye",
+          "url": "https://jobicy.com/jobs/151414-digital-marketing-ai-specialist",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Engineering Manager - Solutions Engineering",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Cloud Engineering Manager",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Engineering Director",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149571-software-engineering-director",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Customer Success Engineer",
+          "company": "Veeam Software",
+          "location": "UAE",
+          "url": "https://jobicy.com/jobs/151408-senior-customer-success-engineer",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Customer Success Advisor - US Remote",
+          "company": "PerfectServe",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/151407-customer-success-advisor-us-remote",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Manager, AMERs Customer Success",
+          "company": "Veeam Software",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/151405-senior-manager-amers-customer-success",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Director, Customer Operations Vendor Strategy & Execution",
+          "company": "Affirm",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151403-director-customer-operations-vendor-strategy-execution",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Engineering Manager",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149575-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "OpenStack Engineering Manager",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149573-openstack-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Engineering Manager, Managed Services",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Site Reliability / Gitops Engineer",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Site Reliability / Gitops Engineer",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Finance Manager - Germany",
+          "company": "Thoughtworks",
+          "location": "Germany,  UK",
+          "url": "https://jobicy.com/jobs/151397-finance-manager-germany",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Support Engineering Manager",
+          "company": "Canonical Ltd.",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149554-support-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Hebrew Freelance Translator & Copy Editor (Product, Support & Marketing Content)",
+          "company": "Welo Global",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Technikas in\u017einierius gamybini\u0173 aparat\u0173 pajungimui (18.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=aromika-technikas-inzinierius-gamybiniu-aparatu-pajungimui-8153179",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Dar\u017eovi\u0173 paruo\u0161\u0117ja -(as) (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=green-factory-baltic-darzoviu-paruoseja-as-8153392",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Sand\u0117lio darbuotojas (-a) (T) (9.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=evelkas-sandelio-darbuotojas-a-6149106",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Krov\u0117jai(-os) - r\u016b\u0161iuotojai (-os) (9.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dhl-lietuva-krovejai-os-rusiuotojai-os-7151762",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbiniai (-\u0117s)  darbuotojai (-os) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=fudo-pagalbiniai-es-darbuotojai-os-8153158",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojai(-os) (Liepkalnio g.) (8.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-skirstytojai-os-liepkalnio-g-7151672",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Etike\u010di\u0173 klijuotojas (-a) (8.06 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=uab-arkama-etikeciu-klijuotojas-a-5146391",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Gamybos darbuotojai (-os) nuo 7:30 val. (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=flexpro-gamybos-darbuotojai-os-nuo-730-val-8152660",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Kvap\u0173 papildytojai objektuose (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=aromika-kvapu-papildytojai-objektuose-8153225",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbiniai (-\u0117s) darbuotojai (-os) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=uab-hovden-surinkeja-s-pakuotoja-s-8153246",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Tvarkdarys (T) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=evelkas-tvarkdarys-5147148",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Tvarkdarys (B) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=evelkas-tvarkdarys-6148278",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.80 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153364",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Accountant",
+          "company": "EY",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/senior-accountant-vilniuje/1-14020424",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Vice President - Transformation Office (CoSec Value Stream)",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/vice-president-transformation-office-cosec-value-stream-vilniuje/1-14082012",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "PAID SEARCH EXECUTIVE",
+          "company": "HIGHRISE MARKETING LIMITED",
+          "location": "Klaip\u0117da",
+          "url": "https://www.cvbankas.lt/paid-search-executive-klaipedoje/1-14082146",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Systems Analyst",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/senior-systems-analyst-vilniuje/1-14082332",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Systems Analyst",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/systems-analyst-vilniuje/1-14082334",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Engineering Manager",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/engineering-manager-vilniuje/1-14082336",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Technical Customer Success Specialist (Night shift)",
+          "company": "Oxylabs",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/technical-customer-success-specialist-night-shift-vilniuje/1-13979802",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-22-104812",
       "created": "2026-08-22T10:48:12.330874+00:00",
