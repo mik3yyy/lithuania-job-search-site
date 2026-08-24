@@ -1,6 +1,343 @@
 {
-  "updated": "2026-08-23T19:23:16.628033+00:00",
+  "updated": "2026-08-24T07:59:09.644046+00:00",
   "batches": [
+    {
+      "id": "2026-08-24-075909",
+      "created": "2026-08-24T07:59:09.644046+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "CVBankas",
+          "title": "Vyriausias restorano administratorius",
+          "company": "UAB \u201eEsurio\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/vyriausias-restorano-administratorius-vilniuje/1-14100175",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Gr\u0119\u017eimo stakli\u0173 operatorius",
+          "company": "UAB \u201eAlbrechta\u201c",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/grezimo-stakliu-operatorius-kaune/1-14100299",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Serviso in\u017einierius",
+          "company": "Equipment Provider, UAB",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/serviso-inzinierius-kaune/1-13948094",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Betonuotojas",
+          "company": "UAB \u201eProjektana\u201c",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/betonuotojas-kaune/1-4211202",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Betonuotojas dirbantis su mini ekskavatoriumi",
+          "company": "UAB \u201eProjektana\u201c",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/betonuotojas-dirbantis-su-mini-ekskavatoriumi-kaune/1-13349465",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Skaitymo u\u017esi\u0117mim\u0173 vaikams mokytojas (-a) (individuali\u0173 ir grupini\u0173)",
+          "company": "V\u0161\u012e \u201eSavirai\u0161kos studija\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/skaitymo-uzsiemimu-vaikams-mokytojas-a-individualiu-ir-grupiniu-vilniuje/1-13372376",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Ekspedicijos vadybininkas (-\u0117) | Autove\u017ei\u0173 logistika | Marijampol\u0117",
+          "company": "Ainetra, UAB",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/ekspedicijos-vadybininkas-e-autoveziu-logistika-marijampole-vilniuje/1-14100109",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Statybos operacij\u0173 vadovas",
+          "company": "\u017diuko \u012fmon\u0117",
+          "location": "Mol\u0117tuose",
+          "url": "https://www.cvbankas.lt/statybos-operaciju-vadovas-moletuose/1-14058242",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Bald\u0173 konstruktorius (-\u0117) / projektuotojas (-a)",
+          "company": "Kraftoro, MB",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/baldu-konstruktorius-e-projektuotojas-a-vilniuje/1-14100071",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Staff Backend Engineer / Tech Lead Manager",
+          "company": "Nebius",
+          "location": "Europe,  Germany,  Netherlands,  UK",
+          "url": "https://jobicy.com/jobs/147410-staff-backend-engineer-tech-lead-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Bilingual Customer Support Specialist",
+          "company": "Samsara",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/149639-bilingual-customer-support-specialist",
+          "language_hint": "en",
+          "match_reason": "Remote, but restricted to USA \u2014 not open to her.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbiniai (-\u0117s)  darbuotojai (-os) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=fudo-pagalbiniai-es-darbuotojai-os-2141176",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153424",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojas(a) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=omniva-lt-sorting-siuntu-skirstytojasa-8153344",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstymo operatoriai(-\u0117s) (7.70 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=venipak-lietuva-siuntu-skirstymo-operatoriai-es-3141867",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153425",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.20 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8153436",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "R\u016b\u0161iuotojai(-os) Vilkp\u0117d\u0117s g. (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=venipak-lietuva-rusiuotojai-os-vilkpedes-g-4145318",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbiniai (-\u0117s) darbuotojai(-os) virtuv\u0117je (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=empl-pagalbiniai-es-darbuotojai-os-virtuveje-8153431",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Gamybos pagalbiniai(-\u0117s) darbuotojai (-os) (9.92 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=podbase-gamybos-pagalbiniai-es-darbuotojai-os-8153439",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 krov\u0117jai (-os) (9.20 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-krovejai-os-9132204",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojai(-os) (Liepkalnio g.) (8.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-skirstytojai-os-liepkalnio-g-7150294",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Automation Developer",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/automation-developer-vilniuje/1-13722841",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "HubSpot Consultant",
+          "company": "HIPER Consultancy, UAB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/hubspot-consultant-vilniuje/1-14082962",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Client Digital Solutions Team Lead",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/client-digital-solutions-team-lead-vilniuje/1-14082974",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Konsultantas (-\u0117), Klient\u0173 aptarnavimo centre | SEB, Klaip\u0117da",
+          "company": "SEB",
+          "location": "Klaip\u0117da",
+          "url": "https://www.cvbankas.lt/konsultantas-e-klientu-aptarnavimo-centre-seb-klaipeda-klaipedoje/1-11352321",
+          "language_hint": null,
+          "match_reason": "137.6km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Konsultantas (-\u0117)/vadybininkas (-\u0117), Fabijoni\u0161ki\u0173 skyriuje| SEB, Vilnius",
+          "company": "SEB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/konsultantas-e-vadybininkas-e-fabijoniskiu-skyriuje-seb-vilnius-vilniuje/1-14083142",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Client Service Specialist ready to secure our digital future | SEB, Vilnius",
+          "company": "SEB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/client-service-specialist-ready-to-secure-our-digital-future-seb-vilnius-vilniuje/1-14083140",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Digital Marketing Manager (Growth Lead)",
+          "company": "BIGBANK AS filialas",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/senior-digital-marketing-manager-growth-lead-vilniuje/1-14083222",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Vadybininkas (-\u0117)| SEB, Vilnius",
+          "company": "SEB",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/vadybininkas-e-seb-vilnius-vilniuje/1-12717433",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "PARDUOTUV\u0116S DIREKTORIUS (-\u0116) KAUNE",
+          "company": "Maxima grup\u0117",
+          "location": "Kaunas",
+          "url": "https://karjera.maxima.lt/PARDUOTUVES-DIREKTORIUS-E/kaunas/31070",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Rimi Lietuva (company site)",
+          "title": "Direktoriaus pavaduotojas (-a) Romaini\u0173 Rimi",
+          "company": "Rimi Lietuva",
+          "location": "SM Romainiai. Romaini\u0173 g. 67c, Kaunas",
+          "url": "https://karjera.rimi.lt/jobs/8257109-direktoriaus-pavaduotojas-a-romainiu-rimi",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Artea (company site)",
+          "title": "Priva\u010dios bankininkyst\u0117s skyriaus vadovas (-\u0117)",
+          "company": "Artea",
+          "location": "Vilnius, Kaunas \u00b7 Hibridinis",
+          "url": "https://karjera.artea.lt/jobs/7742536-privacios-bankininkystes-skyriaus-vadovas-e",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-23-192316",
       "created": "2026-08-23T19:23:16.628033+00:00",
