@@ -1,6 +1,463 @@
 {
-  "updated": "2026-08-29T13:00:34.495100+00:00",
+  "updated": "2026-08-30T12:38:30.893975+00:00",
   "batches": [
+    {
+      "id": "2026-08-30-123830",
+      "created": "2026-08-30T12:38:30.893975+00:00",
+      "jobs": [],
+      "other_candidates": [
+        {
+          "source": "EURES",
+          "title": "Individualios prie\u017ei\u016bros darbuotojas",
+          "company": "Ukmerg\u0117s globos centras",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjdBQkVEMEEtMjU2Ri00NkEyLUI4MUEtMkRBNkQ1MDJBNzczIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Database Administrator - Core Infrastructure",
+          "company": "Kraken",
+          "location": "Bulgaria,  Cyprus,  Czechia,  Europe,  Hungary,  Ireland,  Lithuania,  Poland,  Portugal,  Romania,  Spain,  Switzerland,  UAE,  UK",
+          "url": "https://jobicy.com/jobs/152041-senior-database-administrator-core-infrastructure",
+          "language_hint": "en",
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Informatica Admin",
+          "company": "NTT DATA",
+          "location": "LATAM",
+          "url": "https://jobicy.com/jobs/152019-informatica-admin",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Director of Product Management - US Remote",
+          "company": "PerfectServe",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/152061-director-of-product-management-us-remote",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Business Operations & Chief of Staff",
+          "company": "Waymark",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/152055-business-operations-chief-of-staff",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Support Engineer (EMEA)",
+          "company": "Supabase",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": ".NET Software Architect",
+          "company": "Zartis",
+          "location": "Europe",
+          "url": "https://jobicy.com/jobs/152042-net-software-architect",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Consulting Engineer - LATAM",
+          "company": "Clickhouse",
+          "location": "LATAM",
+          "url": "https://jobicy.com/jobs/152029-senior-consulting-engineer-latam",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Operational Business Analyst & Incident Manager (Technology and Transformation)",
+          "company": "NTT DATA",
+          "location": "LATAM",
+          "url": "https://jobicy.com/jobs/152012-operational-business-analyst-incident-manager-technology-and-transformation",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Backend Developer (.NET/Azure)",
+          "company": "NTT DATA",
+          "location": "LATAM",
+          "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Employee Relations Specialist, Employee Relations and Transitions - EMEA (HRBP)",
+          "company": "Remote",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/152002-employee-relations-specialist-employee-relations-and-transitions-emea-hrbp",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Employee Relations Business Partner - EMEA",
+          "company": "Remote",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/152001-employee-relations-business-partner-emea",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Developer",
+          "company": "D2L",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151986-software-developer",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Software Developer 2",
+          "company": "D2L",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151984-senior-software-developer-2-2",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Software Developer",
+          "company": "D2L",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151981-senior-software-developer",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Product Marketing Manager",
+          "company": "D2L",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151978-product-marketing-manager-4",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Bilingual Product Support Analyst (Canadian French)",
+          "company": "D2L",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pardav\u0117jai(-os)-konsultantai(-\u0117s) (7.20 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=kilmine-pardavejai-os-konsultantai-es-8154142",
+          "language_hint": null,
+          "match_reason": "Couldn't verify the location is actually near \u0160iauliai.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "SKUBIAI IE\u0160KOME! Krov\u0117jai(-os) (12.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=hegelmann-logistics-skubiai-ieskome-krovejai-os-8154039",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Gamybos pagalbinis (-\u0117) darbuotojas (-a) (10.42 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=hautica-gamybos-pagalbinis-e-darbuotojas-a-8154112",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbiniai (-\u0117s)  darbuotojai (-os) (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=fudo-pagalbiniai-es-darbuotojai-os-8153982",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Dar\u017eovi\u0173 paruo\u0161\u0117ja -(as) (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=green-factory-baltic-darzoviu-paruoseja-as-8153986",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Pagalbinis darbuotojas (9.68 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=uab-arkama-pagalbinis-darbuotojas-8151965",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Krautuvo operatorius (-\u0117) (9.68 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=uab-arkama-krautuvo-operatorius-e-6149979",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "R\u016b\u0161iuotoja (-as) fasuotoja (-as) (9.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=fudo-rusiuotoja-as-fasuotoja-as-8153980",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Preki\u0173 surink\u0117jai (-os) (9.35 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=lemona-prekiu-surinkejai-os-4143419",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Sand\u0117lio darbuotojas (-a) (B) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=evelkas-sandelio-darbuotojas-a-5147145",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Stambi\u0173 siunt\u0173 r\u016b\u0161iuotojai (-os) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=venipak-lietuva-stambiu-siuntu-rusiuotojai-os-8154048",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Sand\u0117lio darbuotojas (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=rs-linija-sandelio-darbuotojas-8154076",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojai(-os) (Liepkalnio g.) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-skirstytojai-os-liepkalnio-g-8153659",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojai(-os) (Liepkalnio g.) (8.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-skirstytojai-os-liepkalnio-g-7151671",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "R\u016b\u0161iuotojai(-os) Ozo g. 5, \u017demaitkiemis (8.50 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=venipak-lietuva-rusiuotojai-os-ozo-g-5-zemaitkiemis-6148232",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Vairuotojas (8.06 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=uab-arkama-vairuotojas-7150006",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Junior Payments Officer",
+          "company": "UAB \u201eAlter Domus Lithuania\u201c",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/junior-payments-officer-vilniuje/1-13899288",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Depositary Supervisor",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/depositary-supervisor-vilniuje/1-14032176",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Legal Counsel",
+          "company": "Inchcape Lithuania",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/legal-counsel-vilniuje/1-14083556",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Sales Manager (North Europe) | Networking Solutions",
+          "company": "\u201eTeltonikos\u201c \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/sales-manager-north-europe-networking-solutions-vilniuje/1-13826097",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Business Development Manager / VMG Lignum / German Speaking",
+          "company": "VMGcorp",
+          "location": "Vilnius, Remote job",
+          "url": "https://www.cvbankas.lt/business-development-manager-vmg-lignum-german-speaking-vilniuje/1-14086732",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Operations Specialist",
+          "company": "UAB \u201eIdentitrade\u201c",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/operations-specialist-vilniuje/1-14086156",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Vice President - Investment Transition Team",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/vice-president-investment-transition-team-vilniuje/1-14086848",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Business Analyst",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/business-analyst-vilniuje/1-14086862",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Strategic Key Account Manager",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/strategic-key-account-manager-vilniuje/1-14086864",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Payroll Expert",
+          "company": "Girteka \u012fmoni\u0173 grup\u0117",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/payroll-expert-vilniuje/1-14086866",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Supervisor - Client Services, Private Assets",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/supervisor-client-services-private-assets-vilniuje/1-13783323",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Treasury Assistant Manager",
+          "company": "Citco Group of Companies",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/treasury-assistant-manager-vilniuje/1-14086902",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-08-29-130034",
       "created": "2026-08-29T13:00:34.495100+00:00",

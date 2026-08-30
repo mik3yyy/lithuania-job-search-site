@@ -52,7 +52,7 @@
     "name": "DEPO DIY",
     "careers_url": "https://depo-diy.lt/darbas-depo/",
     "why": "Large Baltic home/DIY retail chain with a store in \u0160iauliai; cashier/customer-service desk roles",
-    "consecutive_empty_checks": 1,
+    "consecutive_empty_checks": 2,
     "ever_matched": false
   },
   {
@@ -80,119 +80,119 @@
     "name": "Lidl Lietuva",
     "careers_url": "https://karjera.lidl.lt/",
     "why": "International discount supermarket chain with stores and customer service roles in \u0160iauliai",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Lietuvos Caritas (\u0160iauli\u0173 Caritas)",
     "careers_url": "https://www.caritas.lt/page/siauliu-caritas",
     "why": "Catholic social-care NGO branch located in \u0160iauliai, strong fit for Social Work studies",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "SEB Lithuania",
     "careers_url": "https://www.seb.lt/en/career",
     "why": "confirmed physically near \u0160iauliai via map data (real branch location)",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "IKI",
     "careers_url": "https://iki.lt/karjera/",
     "why": "confirmed physically near \u0160iauliai via map data (real store location)",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "SOS Children's Villages Lithuania (SOS vaik\u0173 kaimai)",
     "careers_url": "https://sos-vaikukaimai.lt/karjera/",
     "why": "Child-welfare NGO with vacancies incl. \u0160iauliai region, strong social-work alignment",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Circle K Lithuania",
     "careers_url": "https://workwithus.circlek.com/global/en",
     "why": "International convenience/gas station chain with counter/store-associate roles at multiple \u0160iauliai locations; not warehouse work",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Hesburger Lithuania",
     "careers_url": "https://www.hesburger.lt/karjera",
     "why": "confirmed physically near \u0160iauliai via map data (real restaurant location)",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Apranga Group",
     "careers_url": "https://aprangagroup.lt/en/career/job-offers",
     "why": "Major Baltic fashion retail chain with a store in Akropolis \u0160iauliai; customer service/sales roles, not stock-floor work",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "\u010cili Pizza (LTK Food Group)",
     "careers_url": "https://apply.workable.com/cili-pizza/",
     "why": "confirmed physically near \u0160iauliai via map data (real restaurant location)",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Camelia",
     "careers_url": "https://karjera.camelia.lt/",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Benu",
     "careers_url": "https://www.benu.lt/karjera/prisijunk-prie-benu-vaistines-kolektyvo",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Eurovaistin\u0117",
     "careers_url": "https://www.eurovaistine.lt/karjera",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Norfos vaistin\u0117",
     "careers_url": "https://nvaistine.lt/karjera",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Aib\u0117",
     "careers_url": "https://aibe.lt/karjera/",
     "why": "Lithuanian supermarket chain with multiple \u0160iauliai stores; customer service/admin roles",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Gintarin\u0117 vaistin\u0117",
     "careers_url": "https://www.gintarine.lt/darbas-vaistineje",
     "why": "confirmed physically near \u0160iauliai via map data",
-    "consecutive_empty_checks": 11,
+    "consecutive_empty_checks": 12,
     "ever_matched": false
   },
   {
     "name": "Narvesen",
     "careers_url": "https://narvesen.lt/karjera/",
     "why": "confirmed 0.2km from her home via Google Maps",
-    "consecutive_empty_checks": 1,
+    "consecutive_empty_checks": 2,
     "ever_matched": false
   },
   {
     "name": "\"R\u016btos\" kavin\u0117",
     "careers_url": "https://www.ruta.lt/karjera/",
     "why": "confirmed 0.4km from her home via Google Maps",
-    "consecutive_empty_checks": 10,
+    "consecutive_empty_checks": 11,
     "ever_matched": false
   },
   {
@@ -206,7 +206,21 @@
     "name": "Medicinos Bankas",
     "careers_url": "http://www.urbo.lt/lt/karjera",
     "why": "confirmed 0.8km from her home via Google Maps",
-    "consecutive_empty_checks": 10,
+    "consecutive_empty_checks": 11,
+    "ever_matched": false
+  },
+  {
+    "name": "\u017demaitis Restoranas",
+    "careers_url": "http://www.restoranaszemaitis.lt/karjera",
+    "why": "confirmed 0.7km from her home via Google Maps",
+    "consecutive_empty_checks": 1,
+    "ever_matched": false
+  },
+  {
+    "name": "ASNARA, UAB picerija SNACK CITY",
+    "careers_url": "http://www.snackcity.lt/karjera",
+    "why": "confirmed 0.8km from her home via Google Maps",
+    "consecutive_empty_checks": 1,
     "ever_matched": false
   }
 ]
