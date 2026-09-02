@@ -1,6 +1,1144 @@
 {
-  "updated": "2026-09-01T12:23:45.459605+00:00",
+  "updated": "2026-09-02T12:01:08.792015+00:00",
   "batches": [
+    {
+      "id": "2026-09-02-120108",
+      "created": "2026-09-02T12:01:08.792015+00:00",
+      "jobs": [
+        {
+          "source": "Jobicy (Remote)",
+          "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
+          "company": "Softgic",
+          "location": "Anywhere",
+          "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
+          "language_hint": "en",
+          "match_reason": "Remote and open to a Lithuania-based applicant.",
+          "kept": true
+        }
+      ],
+      "other_candidates": [
+        {
+          "source": "CVBankas",
+          "title": "Vyr. Buhalter\u0117 (-is)",
+          "company": "UAB \u201eStiliaus kodas\u201c",
+          "location": "Klaip\u0117doje",
+          "url": "https://www.cvbankas.lt/vyr-buhaltere-is-klaipedoje/1-13202194",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Statinio projekto vadovas",
+          "company": "Hidrus, UAB",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/statinio-projekto-vadovas-vilniuje/1-14106215",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Garantinio serviso darbuotojas",
+          "company": "Energy ON, UAB",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/garantinio-serviso-darbuotojas-kaune/1-13608195",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Konsultantas (-\u0117). Si\u016blome darb\u0105 ar\u010diau nam\u0173! Be patirties apmokome",
+          "company": "UAB \u201eKESKO SENUKAI LITHUANIA\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/konsultantas-e-siulome-darba-arciau-namu-be-patirties-apmokome-vilniuje/1-14106173",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Transporto vadybininkas (-\u0117)",
+          "company": "UAB \u201eTIEKUVA\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/transporto-vadybininkas-e-vilniuje/1-4257369",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Telemarketingo specialistas (-\u0117) , GERIAUSIAS LAIKAS TAPTI PARDAVIM\u0172 PROFESIONALU! Prisijunk prie VILNIAUS komandos",
+          "company": "UAB \u201eDormeo Home\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/telemarketingo-specialistas-e-geriausias-laikas-tapti-pardavimu-profesionalu-prisijunk-prie-vilniaus-komandos-vilniuje/1-8786514",
+          "language_hint": null,
+          "match_reason": "185.8km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Maisto ruo\u0161\u0117jas (-a) - pardav\u0117jas (-a)",
+          "company": "I\u012e \u201eFudstapas\u201c",
+          "location": "Utenoje",
+          "url": "https://www.cvbankas.lt/maisto-ruosejas-a-pardavejas-a-utenoje/1-13377018",
+          "language_hint": null,
+          "match_reason": "151.2km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "PERSONALO KOORDINATORIUS (-\u0116)",
+          "company": "Eurostep LT, UAB",
+          "location": "Nyderlanduose",
+          "url": "https://www.cvbankas.lt/personalo-koordinatorius-e-uzsienyje/1-14105945",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Senior AML/KYC Officer",
+          "company": "UAB \u201eNomuPay Europe\u201c",
+          "location": "Vilniuje",
+          "url": "https://www.cvbankas.lt/senior-aml-kyc-officer-vilniuje/1-14004832",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "PRISIJUNK PRIE JAUNATVI\u0160KOS KLIENT\u0172 APTARNAVIMO KOMANDOS KAUNE!",
+          "company": "UAB \u201ePlanas chuliganas\u201c",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/prisijunk-prie-jaunatviskos-klientu-aptarnavimo-komandos-kaune-kaune/1-9403283",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "STATYBOS DARBUOTOJAS / VIDAUS APDAILOS SPECIALISTAS DANIJOJE",
+          "company": "Warming ApS",
+          "location": "Danijoje",
+          "url": "https://www.cvbankas.lt/statybos-darbuotojas-vidaus-apdailos-specialistas-danijoje-uzsienyje/1-14105831",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "Pardav\u0117jas (-a) suvenyr\u0173 parduotuv\u0117je KAUNO ORO UOSTAS",
+          "company": "Airportshopas MB",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/pardavejas-a-suvenyru-parduotuveje-kauno-oro-uostas-kaune/1-14083978",
+          "language_hint": null,
+          "match_reason": "120.2km from her home in \u0160iauliai \u2014 too far for a daily commute.",
+          "kept": false
+        },
+        {
+          "source": "CVBankas",
+          "title": "VYRIAUSIASIS FINANSIN\u0116S APSKAITOS SPECIALISTAS (-\u0116)",
+          "company": "Hegelmann Group",
+          "location": "Kaune",
+          "url": "https://www.cvbankas.lt/vyriausiasis-finansines-apskaitos-specialistas-e-kaune/1-14105733",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Skalbyklos darbuotoja (-as)",
+          "company": "UAB \"Biuro\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTg1RTA1QTctREQ0NS00NEJCLUJGQjQtM0M0Njk0MDNEQkU3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pagalbinis (-\u0117) darbuotojas (-a)",
+          "company": "\"Auk\u0161taitijos mediena\", D. Arlausko I\u012e",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MDA0MDc3RjktQzg3OS00M0RFLThGQTItREUwMzUxRkY5NTZFIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Gamybos darbuotojas (-a) Pikeli\u0161k\u0117se",
+          "company": "UAB \"Kadagin\u0117\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODRFRkNDMTItRUM2Ni00NDdFLUIwRjgtQThCQTJBNjkwNUU1IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Auto\u0161altkavis, ma\u0161in\u0173 mechanikai ir taisytojai",
+          "company": "UAB \"Departus Truck Service\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MkI3RDBDNEMtNEFBOC00RTU0LTk2MjktQUM3RDA2NkFEQzA3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Elektros \u012frengini\u0173 meistras",
+          "company": "UAB Kelm\u0117s vietinis \u016bkis",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/Mjc4OTUwQTUtQjYyOS00Qjc5LTlGNEUtRUJCM0Y2MkMyNDVEIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Konteineri\u0173 plov\u0117jas (-a)",
+          "company": "Klaip\u0117dos konteineri\u0173 terminalas, UAB",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QkExRDVFNDctQkZCQi00REY1LTgyQTUtNTNENkJENTc3NDE4IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Gamybos darbuotojai (-os) | I\u2013V | Apmokome",
+          "company": "U\u017edaroji akcin\u0117 bendrov\u0117 \"DZ\u016aKIJA\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RDQyODdFNTEtRkFCRS00ODQyLTlGRTQtQTRGQ0JDMzZDNjZCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pagalbinis (\u0117) darbininkas (\u0117)",
+          "company": "MB \"Torilsta\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QzBFRUQ0OUUtNjc0NC00N0I4LUE2QkYtNjY5NUI1MDIzN0U3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Preki\u0173 atrink\u0117jas - komplektuotojas (-a)",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTVGNTVERjItNkRFMi00RDE3LUIzQTQtMkFDN0FGQUU2OTc0IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "\u0160VOK/Oro kondicionavimo specialistas (-\u0117)(F-dujos)",
+          "company": "UAB \"ENERGUS GROUP\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QzNBQjM0N0QtODI4My00MEI1LTg2NTktRUMzOTNFMzQwMTI3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Bud\u0117tojas (-a)",
+          "company": "Ignalinos \u010ceslovo Kudabos gimnazija",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/N0EyQ0M1MkQtRDFGOC00MkE0LTlBMjQtQjc4NjY1MTE5ODgxIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "SPEC. VALYMO DARB\u0172 DARBUOTOJAS (-A)",
+          "company": "Daily Spaces, UAB",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODI2QkNBRjEtMEFBRC00MzNGLUFDQjctMDY5RTM0MDZFMTU0IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Bendrosios praktikos slaugytojas (-a)",
+          "company": "U\u017edaroji akcin\u0117 bendrov\u0117 \"FAMA BONA\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RTY3RTZDREItNjY4RC00NDRDLTg2QTAtQUI1RjFBNkUxQURDIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardavimo vadybininkas",
+          "company": "MB \"Autohelas\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QjdFODIzMDMtNTI4Ni00RDdBLUFGQzUtRTAzMjAxOEQ3REQ2IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardavim\u0173 vadybininkas (-\u0117)",
+          "company": "UAB \"ST Biuro sistemos\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MDYxM0Y3MTQtM0FEOS00QkVDLThBOEYtQjZENDc2MEIxQUYzIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Vir\u0117jo pad\u0117j\u0117jas",
+          "company": "UAB \"Paulitukas\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QzIwNTA4MjgtOTAxOS00NjM5LUE1OEYtQzgzRENDMEYxMzg2IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Kasininkas / vir\u0117jo pad\u0117j\u0117jas",
+          "company": "UAB \"MATIPAULA\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QzdDQTdFQTMtQUY4OC00NkRELUI3QTUtOUQ5MThENEZGQjNEIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Slaugytojo pad\u0117j\u0117jas (-a)",
+          "company": "Jotaini\u0173 socialin\u0117s globos namai",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QzBGQzY5MEEtMDUxRi00MzE4LUE4RDAtNTg0NTg4MDhDNzVBIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardavim\u0173 vadybininkas (-\u0117)",
+          "company": "MB Mercis",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MkUxMkM2MEItNzc5My00MTVELTg5QjctRkIxNkY5NkVCOUIzIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Sveriam\u0173 preki\u0173 skyriaus darbuotojas /-a",
+          "company": "U\u017edaroji akcin\u0117 bendrov\u0117 \"NORFOS MA\u017dMENA\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MzU3NDM3RDYtRDIxMi00MDYyLUJGRTAtN0QzNjk0NDZEREM4IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Bendrosios praktikos slaugytojas (-a)",
+          "company": "Jotaini\u0173 socialin\u0117s globos namai",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RkQwRjU4MzAtRUQwNS00MzUyLUIwNTYtNzJGMUEzMkJENzUxIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117jas Naujoji g. 8",
+          "company": "MB \"BELLY maisto namai\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MUE3MzA0QkUtRjgzQS00QzZFLTlGNkMtNTcyOTYzRUU5RkM4IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Mokytojo pad\u0117j\u0117ja (s)",
+          "company": "Buki\u0161kio pagrindin\u0117 mokykla",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjA4Mzk5OEUtMDUzQy00MUQwLUE1NTYtNjUyRDNCM0M5NkZEIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Mokinio pad\u0117j\u0117ja (s)",
+          "company": "Buki\u0161kio pagrindin\u0117 mokykla",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QjAwNUUwNEMtMjU3MS00QzQ0LTkyRjItQjkwQTNCMEVERDFDIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Klient\u0173 aptarnavimo centro pardav\u0117jas Depo",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QTg1QUQ1NDktNUE2NS00M0Q2LTgzQzMtMEJFNUZFMDI1QTJCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117ja (-as) / konsultant\u0117 (-as) Vilniuje",
+          "company": "UAB \"MINI SOLUTIONS\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjlENUIzNEMtQjEwQy00M0IyLTk2NDYtN0M4Mjg0NzFDRjYyIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117jas Elektros arba Da\u017e\u0173 skyriuose DEPO",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTNFMTkyNkUtMUYyNi00RTdDLTg3MUUtRTc5MThDRDI5MUY3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117jas Sodo technikos skyriuje",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RTE0ODIyNUEtNjM3MS00MjMwLUFDOTctOUYwOTJEODNCNjVCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117jas Statybini\u0173 preki\u0173 skyriuje",
+          "company": "UAB \"DEPO DIY LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RjVBOEJENTQtMUNBMC00Njk5LTgxOEEtMTRFQzZBM0Y3QkVEIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Odontologo pad\u0117j\u0117jas",
+          "company": "I\u012e B. RUBINIEN\u0116S ODONTOLOGIJOS KABINETAS",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTE5ODRFOTktQ0QxRS00RjcyLUJBODMtMzk5MTA3NjU3MjU5IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Pardav\u0117jas",
+          "company": "\"Rada LT\", UAB",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MzZGMzIxQ0QtMDc0MC00RTdGLTk3QkYtREI5NTEzQjgwQjk1IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Projekt\u0173 koordinatorius (-\u0117)",
+          "company": "UAB SFS personalas",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/N0RFNTQxQTEtRjUxQy00NDJBLThENjgtMzhEOEM4RTkwQTIxIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Krautuv\u0117l\u0117s \u0161eiminink\u0117 (-as) - pardav\u0117ja (-as)",
+          "company": "UAB \"Jomarko prekyba\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzNGNDIyNEQtQjM0RS00RjZDLThDNUItQzhBM0IxNDEwRUM4IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Vie\u0161bu\u010dio administrator\u0117 (-ius)",
+          "company": "UAB \"JUNGTINIS TURTO CENTRAS\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NEQ5MzIyQTgtRTc3NS00QjgyLUI2MkEtNzE5MjEzMDlBMzFDIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Veterinaro pagalbininkas (-\u0117) 0,5 et.",
+          "company": "Lietuvos sveikatos moksl\u0173 universitetas",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QjJCMDU0MUYtREJBNy00MUE5LUJFRDgtMTYzOTM1QzE5Nzg3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Porolono pjov\u0117jas (-a)",
+          "company": "UAB \"Lyra group\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/Nzk3OEIwNjUtNTFCNC00NjMzLTlFNjktOUIwNkE4QzREN0IxIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Plataus profilio statybininkas (-\u0117)",
+          "company": "U\u017edaroji akcin\u0117 bendrov\u0117 \"Vidara\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MkRFMTlERDYtRkNGMC00RDczLTkwMDktMEFEQUEyRDhEMzRCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Mokytojo (-s) pad\u0117j\u0117jas (-a)",
+          "company": "Vilniaus lop\u0161elis-dar\u017eelis \"Vyd\u016bn\u0117lis\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/RkQ0MjBDRTktRDNCOC00NTdDLUEwRDMtOUVGNTRCQ0JFNEE5IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Specialusis pedagogas",
+          "company": "Buki\u0161kio pagrindin\u0117 mokykla",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NDVCOTA4ODgtNEQ1Qi00OTA5LTkxRkQtQUI5MDVBRTlDNjk4IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Ikimokyklinio ugdymo mokytojo pad\u0117j\u0117jas",
+          "company": "Kauno Panemun\u0117s lop\u0161elis-dar\u017eelis",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTgzQjU3NDAtNjZFQS00ODI5LUE3NUItQUM3RjUwMkU2NUQyIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "\u0160\u0117rikas (-\u0117)",
+          "company": "\u016akininko \u016bkis, 6507216",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NEI0ODk4MjMtMUY2RS00OEEzLUIwNjEtNEI2RTFEMUEyNTEwIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Mel\u017e\u0117jas (-a)",
+          "company": "\u016akininko \u016bkis, 6507216",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MkY3OEUzNTMtMUJFNS00NkM1LTg2NUUtRjQ0ODU2OEMwNjlCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Plataus profilio statybininkas",
+          "company": "UAB \"Ingar\u0117\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/QUVCNEIzRTQtMjU1NC00NTM2LTkwRTAtQkQxOTA5RDM3RkEwIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Specialusis pedagogas(-\u0117)",
+          "company": "Kretingos Marijono Daujoto progimnazija",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/Rjc4NkYwRDYtNkJFRS00RDJFLTgzNEMtQ0IzMEJGRjhEREI5IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Individualios prie\u017ei\u016bros darbuotojas",
+          "company": "UAB \"Kitada\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjI5RTJDNTUtMzQ5MS00NEE4LTg0OTEtNzk4Q0U4MkY5NTQ0IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Metalo vamzd\u017ei\u0173 pjov\u0117jas",
+          "company": "UAB \"Metmega\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NkE2QkFEOUItOEVEMC00RkMwLUJFMjktNjU5ODg2N0Y5MkVCIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Plataus profilio statybininkas",
+          "company": "UAB \"Statyb\u0173 grup\u0117\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjUwRUM1MDYtRDYzOS00REFBLTk3QkQtQkNBMjU0OUU4MTlFIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Tvor\u0173 surink\u0117jas (dirbtuv\u0117se)",
+          "company": "UAB \"JAPE LT\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjM3NTM1OTMtMjk3MC00MUEwLThERDktMzhFOUQwRUIwNUI3IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Personalo atrank\u0173 specialistas (-\u0117)",
+          "company": "UAB SFS personalas",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTREMkFBMDMtOEMzNC00Qjg2LUI0QzAtNTVDMTdFMDQzQzI0IDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "EURES",
+          "title": "Individualios prie\u017ei\u016bros darbuotoja (-as)",
+          "company": "UAB \"Angelai sargai\"",
+          "location": "Lithuania",
+          "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTNEM0NDQjctODY0Mi00NkYxLUJBQkYtMjNFNURCOUJBRDJGIDIyMQ?lang=en",
+          "language_hint": "lt-only",
+          "match_reason": "Lithuanian-only role (per the source's own language field).",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Payroll Analyst",
+          "company": "DoorDash",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/147870-senior-payroll-analyst",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Sr. Customer Engagement Marketing Manager (Canada)",
+          "company": "PointClickCare",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/150033-sr-customer-engagement-marketing-manager-canada",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Sr. Customer Engagement Marketing Manager (US)",
+          "company": "PointClickCare",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/150032-sr-customer-engagement-marketing-manager-us",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Customer Support Specialist",
+          "company": "Juniper Square",
+          "location": "Canada,  USA",
+          "url": "https://jobicy.com/jobs/150027-customer-support-specialist-2",
+          "language_hint": "en",
+          "match_reason": "Remote, but restricted to Canada,  USA \u2014 not open to her.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Site Reliability Engineering Manager",
+          "company": "Canonical",
+          "location": "APAC,  EMEA",
+          "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Engineer - Data Infrastructure - Kafka",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Product Manager, Fraud and Compliance",
+          "company": "Remote",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149964-senior-product-manager-fraud-and-compliance",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior Software Engineer - Python/MongoDB",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
+          "language_hint": "en",
+          "match_reason": "Reads as a senior/technical/corporate-track role needing experience or skills she doesn't have.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Engineer - Data Infrastructure",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149971-software-engineer-data-infrastructure",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Senior HR Generalist - EMEA",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149977-senior-hr-generalist-emea",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Information Systems - Open Source Technical Architect",
+          "company": "Canonical",
+          "location": "EMEA",
+          "url": "https://jobicy.com/jobs/149979-information-systems-open-source-technical-architect",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Software Engineer - Cloud Images",
+          "company": "Canonical",
+          "location": "EMEA,  LATAM,  Canada,  USA",
+          "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "GitOps Engineering Manager",
+          "company": "Canonical",
+          "location": "APAC,  EMEA",
+          "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+          "language_hint": "en",
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "US- Escalation Manager (Customer Support)",
+          "company": "PointClickCare",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/150041-us-escalation-manager-customer-support",
+          "language_hint": "en",
+          "match_reason": "Reads as a senior/technical/corporate-track role needing experience or skills she doesn't have.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Canada- Escalation Manager (Customer Support)",
+          "company": "PointClickCare",
+          "location": "Canada",
+          "url": "https://jobicy.com/jobs/150040-canada-escalation-manager-customer-support",
+          "language_hint": "en",
+          "match_reason": "Reads as a senior/technical/corporate-track role needing experience or skills she doesn't have.",
+          "kept": false
+        },
+        {
+          "source": "Jobicy (Remote)",
+          "title": "Chat Support Agent - 15-18/hr",
+          "company": "NoGigiddy",
+          "location": "USA",
+          "url": "https://jobicy.com/jobs/150068-chat-support-agent-remote-15-18-hr",
+          "language_hint": "en",
+          "match_reason": "Remote, but restricted to USA \u2014 not open to her.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 skirstytojai (-os) (Liepkalnio g.) (9.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-skirstytojai-os-liepkalnio-g-9154451",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Lipduk\u0173 klijuotojai (-os) / pakuotojai (-os) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=alg-logistika-lipduku-klijuotojai-os-pakuotojai-os-8153867",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "R\u016bbininkai (-\u0117s) (8.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=decathlon-lietuva-rubininkai-es-4143934",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Konferencij\u0173 asistentai(-\u0117s) (7.30 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=viesbutis-lietuva-konferenciju-asistentai-es-9154409",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Buitini\u0173 patalp\u0173 valymas (12.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=daily-spaces-buitiniu-patalpu-valymas-8153856",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "pagalbiniai darbai (12.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=nojus-pagalbiniai-darbai-9154365",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Preki\u0173 surink\u0117jos(-ai)- pakuotojos(-ai) gamyboje (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=toke-lt-prekiu-surinkejos-ai-pakuotojos-ai-gamyboje-8154307",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Buitini\u0173 patalp\u0173 valymas (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=daily-spaces-buitiniu-patalpu-valymas-9154533",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Sand\u0117lio pagalbiniai darbuotojai (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=podbase-sandelio-pagalbiniai-darbuotojai-9154544",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Preki\u0173 pakuotojai (-os) / surink\u0117jai (-os) sand\u0117lyje (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=irankiailt-prekiu-pakuotojai-os-surinkejai-os-sandelyje-8154208",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Workis.online",
+          "title": "Siunt\u0173 krov\u0117jai (-os) (10.00 \u20ac/hr)",
+          "company": "",
+          "location": "",
+          "url": "https://workis.online/lt/jobs?job=dpd-lietuva-siuntu-krovejai-os-5145728",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Work in Lithuania",
+          "title": "Senior Security Engineer",
+          "company": "UAB \u201eAdform Lithuania\u201c",
+          "location": "Vilnius",
+          "url": "https://www.cvbankas.lt/senior-security-engineer-vilniuje/1-14019144",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Junior Software Engineer",
+          "company": "Humbility",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20880",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Software Engineer",
+          "company": "Humbility",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20426",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Software Engineering Internship - Wix Grow",
+          "company": "Wix.com",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20879",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Senior Data Engineer",
+          "company": "Nasdaq",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/19901",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Senior FP&amp;A Analyst",
+          "company": "Nasdaq",
+          "location": "Vilnius",
+          "url": "https://unicorns.lt/j/20878",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Back-end Developer",
+          "company": "Toughlex",
+          "location": "Kaunas",
+          "url": "https://unicorns.lt/j/20877",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Product Owner | Senior | Mobile | Coveron",
+          "company": "Nord Security, Vilnius",
+          "location": "Kaunas",
+          "url": "https://unicorns.lt/j/20516",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Talent Acquisition Partner | NordVPN tech",
+          "company": "Nord Security, Vilnius",
+          "location": "Kaunas",
+          "url": "https://unicorns.lt/j/20550",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Application Security Engineer | Senior",
+          "company": "Nord Security, Vilnius",
+          "location": "Kaunas",
+          "url": "https://unicorns.lt/j/20042",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Unicorns Lithuania",
+          "title": "Head of Acquisition",
+          "company": "KiloHealth",
+          "location": "",
+          "url": "https://unicorns.lt/j/20574",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Alliance for Recruitment",
+          "title": "Investment Advisor \u2013 Capital Markets",
+          "company": "",
+          "location": "Vilnius",
+          "url": "https://afr.lt/en/job-offers/investment-advisor-capital-markets/",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Swedbank (company site)",
+          "title": "Jaunesnysis (-ioji) specialistas (-\u0117) Klient\u0173 aptarnavime telefonu Kaune",
+          "company": "Swedbank",
+          "location": "Kaunas",
+          "url": "https://jobs.swedbank.com/jobs/27782-jaunesnysis-ioji-specialistas-e-klientu-aptarnavime-telefonu-kaune",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Swedbank (company site)",
+          "title": "Finansavimo vadybininkas (-\u0117)",
+          "company": "Swedbank",
+          "location": "Multiple locations \u00b7 Hybrid",
+          "url": "https://jobs.swedbank.com/jobs/27781-finansavimo-vadybininkas-e",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "PREKYBOS DARBUOTOJAS (-A) NAUJOJE PARDUOTUV\u0116JE \u0160IAULIUOSE (LANKSTUS GRAFIKAS)",
+          "company": "Maxima grup\u0117",
+          "location": "\u0160iauliai",
+          "url": "https://karjera.maxima.lt/PARDUOTUVES-DARBUOTOJAS-A/siauliai/31114",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "SAND\u0116LIO DARBUOTOJAS (-A) PAPILDOMAM DARBUI VAKARAIS (0,5 ETATU)",
+          "company": "Maxima grup\u0117",
+          "location": "Vilnius",
+          "url": "https://karjera.maxima.lt/vyresnysis-sandelio-darbuotojas-a/vilnius/30162",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "VYR. SAND\u0116LIO DARBUOTOJAS (-A) METELI\u0172 G. VILNIUJE",
+          "company": "Maxima grup\u0117",
+          "location": "Vilnius",
+          "url": "https://karjera.maxima.lt/vyresnysis-sandelio-darbuotojas-a/vilnius/28433",
+          "language_hint": null,
+          "match_reason": "Looks like manual/industrial labor, not her background.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "U\u017dSAKYM\u0172 KOMPLEKTUOTOJAS (-A) SAND\u0116LYJE (PENKIADIENIU GRAFIKU)",
+          "company": "Maxima grup\u0117",
+          "location": "Vilnius",
+          "url": "https://karjera.maxima.lt/uzsakymu-komplektuotojas/vilnius/27619",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Maxima grup\u0117 (company site)",
+          "title": "U\u017dSAKYM\u0172 KOMPLEKTUOTOJAS (-A) VILNIUJE (NEMOKAMAS TRANSPORTAS)",
+          "company": "Maxima grup\u0117",
+          "location": "Alytus",
+          "url": "https://karjera.maxima.lt/uzsakymu-komplektuotojas/alytus/31118",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Artea (company site)",
+          "title": "Atlygio partneris (-\u0117)",
+          "company": "Artea",
+          "location": "Vilnius - Artea banko grup\u0117s Centrin\u0117s b\u016bstin\u0117s padalinys",
+          "url": "https://karjera.artea.lt/jobs/8309324-atlygio-partneris-e",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        },
+        {
+          "source": "Artea (company site)",
+          "title": "Neteis\u0117t\u0173 operacij\u0173 ir pretenzij\u0173 grup\u0117s vadybininkas (-\u0117)",
+          "company": "Artea",
+          "location": "Kaunas - Artea banko grup\u0117s Centrin\u0117s b\u016bstin\u0117s padalinys - Hibridinis",
+          "url": "https://karjera.artea.lt/jobs/7915307-neteisetu-operaciju-ir-pretenziju-grupes-vadybininkas-e",
+          "language_hint": null,
+          "match_reason": "Title/description didn't match customer service, admin, hospitality, retail, or social-care work.",
+          "kept": false
+        }
+      ]
+    },
     {
       "id": "2026-09-01-122345",
       "created": "2026-09-01T12:23:45.459605+00:00",
